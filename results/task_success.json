@@ -1,0 +1,23 @@
+{
+  "measured_at": "2026-08-17",
+  "data_kind": "REAL",
+  "python": "3.12.13",
+  "platform": "macOS-26.4.1-arm64-arm-64bit",
+  "numpy": "2.5.2",
+  "radius_mm": 16.094743,
+  "kalman": {
+    "n_reaches": 71,
+    "n_success": 24,
+    "success_rate": 0.338028,
+    "total_time_s": 93.504,
+    "radius_mm": 16.094743
+  },
+  "true_velocity_upper_bound": {
+    "n_reaches": 71,
+    "n_success": 71,
+    "success_rate": 1.0,
+    "total_time_s": 93.504,
+    "radius_mm": 16.094743
+  },
+  "bitrate_bits_per_s_kalman": 0.48322
+}

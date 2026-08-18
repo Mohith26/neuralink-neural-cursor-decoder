@@ -1,0 +1,31 @@
+{
+  "measured_at": "2026-08-17",
+  "data_kind": "REAL",
+  "python": "3.12.13",
+  "platform": "macOS-26.4.1-arm64-arm-64bit",
+  "numpy": "2.5.2",
+  "dataset": {
+    "kind": "REAL",
+    "source": "indy_20161005_06.mat",
+    "n_channels": 96,
+    "n_units": 164,
+    "n_samples": 93501,
+    "duration_s": 374.0,
+    "sample_rate_hz": 250.0,
+    "total_spikes": 188306,
+    "include_hash": false,
+    "unit_selection": "sorted_units_1-4"
+  },
+  "bin_ms": 64.0,
+  "kalman_cc_mean": 0.640214,
+  "kalman_r2_mean": 0.404113,
+  "ridge_cc_mean": 0.692366,
+  "chance_cc_mean_kalman": -0.04679,
+  "task_success_rate_kalman": 0.338028,
+  "bitrate_bits_per_s": 0.48322,
+  "latency_p50_ms": 0.176083,
+  "latency_p95_ms": 0.186333,
+  "realtime_p95": true,
+  "throughput_units_x_hz": 2562.5,
+  "replay_matches_batch": true
+}
