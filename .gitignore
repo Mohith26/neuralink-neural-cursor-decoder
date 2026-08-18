@@ -1,0 +1,20 @@
+# Datasets are NOT committed — download via scripts/download_data.sh
+data/
+*.mat
+*.nwb
+*.h5
+
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.coverage
+htmlcov/
+
+# OS / editor
+.DS_Store
+.env
+.idea/
+.vscode/
